@@ -1,12 +1,5 @@
-/*header nav img,a {
-    text-align: center;
-   margin-top: 30px;
-    display: inline;
-    white-space: pre-wrap;
-    
 
-  }*/
-  img:first-of-type , a {
+  header img:first-of-type , a {
     display: inline-block;
   padding: 8px;
   white-space: 30px;
